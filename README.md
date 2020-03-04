@@ -4,5 +4,6 @@
 ```
 npm install @ionic/angular@latest
 ng update @angular/core @angular/cli --allow-dirty
+npm i -g firebase-tools
 ```
 [Angular Update Guide](https://update.angular.io/)
