@@ -6,5 +6,7 @@ npm install @ionic/angular@latest
 ng update @angular/core @angular/cli --allow-dirty
 npm i -g firebase-tools
 npm install --save rxjs-compat
+ionic build --prod
+firebase deploy
 ```
 [Angular Update Guide](https://update.angular.io/)
