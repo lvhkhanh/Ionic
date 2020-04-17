@@ -10,3 +10,5 @@ ionic build --prod
 firebase deploy
 ```
 [Angular Update Guide](https://update.angular.io/)
+## Readings
+### https://cdn2.hubspot.net/hubfs/3776657/The%20State%20of%20Enterprise%20Mobile%20App%20Development.pdf
