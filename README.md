@@ -1,5 +1,6 @@
 # Ionic
-
+## Courses
+### https://app.pluralsight.com/search/?q=ionic
 [Ionic 4 Succinctly](https://www.syncfusion.com/ebooks/ionic-4-succinctly)
 ```
 npm install @ionic/angular@latest
