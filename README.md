@@ -5,6 +5,8 @@
 ### https://ionicframework.com/getting-started
 ### https://ionicframework.com/docs
 ### https://ionicframework.com/react
+## Tools
+### https://stenciljs.com/docs/angular
 ## Courses
 ### https://app.pluralsight.com/search/?q=ionic
 [Ionic 4 Succinctly](https://www.syncfusion.com/ebooks/ionic-4-succinctly)
